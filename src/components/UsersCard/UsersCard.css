@@ -1,0 +1,90 @@
+.person-card {
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+}
+.person-name{
+    font-family: Segoe UI Semibold;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    padding-top: 10px;
+    z-index: 1;
+}
+.person-position{
+    margin-bottom: 5px;
+    margin-top: -5px;
+    z-index: 1;
+}
+.person-email_id{
+    margin-bottom: 20px;
+    margin-top: -5px;
+    z-index: 1;
+}
+h3 {
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    color: #33363b;
+}
+p{
+    font-size: 14px;
+    color: #868d9b;
+}
+.card-wrapper{
+    height: Auto; 
+    background-color: #Ffffff;
+    margin: 0 Auto;
+    margin-top: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 1px 3px 0px Rgba(0, 0, 0, 0.15);
+    border-top-right-radius: 50px;
+}
+.user_details h3 {
+    margin-top: 10px;
+}
+.user_details{
+    position: relative;
+    padding: 0px 10px;
+    overflow: hidden;
+}
+.card-bg{
+    position: absolute;
+    background-color: #24c5a1;
+    height: 113px;
+    width: 303px;
+    top: 0;
+    z-index: -1;
+    left: 13%;
+}
+.card_count {
+    padding: 30px;
+    border-top: 1px Solid #Dde1e7;
+}
+
+.count {
+    display: Flex;
+    align-items: Center;
+    justify-content: Space-Between;
+    margin-bottom: 28px;
+}
+
+.count P {
+    margin-top: -10px;
+}
+
+.btn-wrapper{
+    padding: 16px;
+    width: 100%;
+    border: None;
+    outline: None;
+    border-radius: 4px;
+    background-color: #24c5a1;
+    color: #Ffffff;
+    cursor: Pointer;
+    text-align: Center;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: Uppercase;
+}

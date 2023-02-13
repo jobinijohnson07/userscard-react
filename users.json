@@ -1,0 +1,62 @@
+{
+  "persons":[
+    {
+      "name": "John Doe",
+      "position" : "UI / UX Designer",
+      "email_id": "johndoe@example.com",
+      "projects": "120",
+      "followers": "25",
+      "following": "12"
+    }, 
+    {
+      "name": "Jane Doe",
+      "position" : "Front End Developer",
+      "email_id": "janedoe@example.com",
+      "projects": "200",
+      "followers": "60",
+      "following": "40"
+    },
+    {
+      "name": "Bob Smith",
+      "position" : "Back End Developer",
+      "email_id": "bobsmith@example.com",
+      "projects": "80",
+      "followers": "10",
+      "following": "8"
+    },
+    {
+      "name": "Alice Daniel",
+      "position" : "Mern Stack Developer",
+      "email_id": "alicejohnson@example.com",
+      "projects": "520",
+      "followers": "200",
+      "following": "120"
+    },
+    {
+      "name": "Charlie Brown",
+      "position" : "Front End Developer",
+      "email_id": "charliebrown@example.com",
+      "projects": "20",
+      "followers": "5",
+      "following": "8"
+    },
+    {
+      "name": "Grace Princy",
+      "position" : "UI / UX Designer",
+      "email_id": "graceprincy@example.com",
+      "projects": "290",
+      "followers": "120",
+      "following": "85"
+    },
+    {
+      "name": "Richard Dave",
+      "position" : "UI / UX Designer",
+      "email_id": "Mern Stack Developer",
+      "projects": "15",
+      "followers": "5",
+      "following": "4"
+    }
+  ]
+}
+
+  
